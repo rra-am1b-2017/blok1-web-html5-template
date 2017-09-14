@@ -1,0 +1,42 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+h1 {
+   color:red;
+   font-size: 40px;
+   border: 5px solid orange;
+   background-color: grey;
+}
+
+header {
+   border: 5px solid greenyellow;
+   padding: 50px 20px;
+   background-color: lightgrey;
+
+
+}
+
+body {
+   border: 1px solid #D95A5A;
+   width: 800px;
+   margin: 0px auto;  
+}
+
+section {
+   min-height: 100vh;
+}
+
+#section_1 {
+   background-color: gold;
+}
+
+#section_2 {
+   background-color: olivedrab;
+}
+
+#section_3 {
+   background-color: burlywood;
+}
+
